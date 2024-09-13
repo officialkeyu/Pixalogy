@@ -1,2 +1,0 @@
-# Pixalogy
-Pixalogy
